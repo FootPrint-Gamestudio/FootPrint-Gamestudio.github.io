@@ -1,0 +1,28 @@
+{
+  "name": "FOOTPRINT Game Studio | Premium Indie Games & Unity Assets",
+  "short_name": "FOOTPRINT",
+  "description": "Premium indie game development studio creating high-quality games and Unity assets",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1a1a2e",
+  "theme_color": "#4f46e5",
+  "categories": ["games", "entertainment", "development"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/static/icons/logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icons/logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}
