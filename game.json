@@ -8,18 +8,18 @@
         "is_new": true
     },
     {
-        "name": "Die",
-        "description": "دیسکریپشنشو یادم نمیام",
-        "image_url": "die.jpg",
-        "store_link": "لینکشو باید کپی کنم فیلتر میخواد",
-        "is_active": true,
-        "is_new": true
+        "name": "Soon",
+        "description": "Coming Soon",
+        "image_url": "",
+        "store_link": "",
+        "is_active": false,
+        "is_new": false
     },
     {
-        "name": "Die",
-        "description": "دیسکریپشنشو یادم نمیام",
-        "image_url": "die.jpg",
-        "store_link": "لینکشو باید کپی کنم فیلتر میخواد",
+        "name": "Soon",
+        "description": "Coming Soon",
+        "image_url": "",
+        "store_link": "",
         "is_active": false,
         "is_new": false
     }
