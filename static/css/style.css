@@ -386,26 +386,6 @@ body {
     left: 100%;
 }
 
-/* About Section Styles */
-.about-content {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    animation: fadeIn 1s ease-out;
-}
-
-.about-content p {
-    margin-bottom: 25px;
-    font-size: 1.1rem;
-    line-height: 1.8;
-    color: var(--text-muted);
-}
-
-.about-content p:first-child {
-    font-size: 1.2rem;
-    color: var(--text-color);
-}
-
 /* Contact Section Styles */
 .contact-content {
     max-width: 600px;
@@ -846,6 +826,7 @@ body {
     }
 
     .support-tooltip, .theme-tooltip {
+        display: none;
         right: 65px;
         font-size: 0.9rem;
         padding: 8px 15px;
@@ -916,10 +897,6 @@ body {
         font-size: 1.3rem;
     }
 
-    .support-btn svg, .theme-toggle svg {
-        height: 1.3rem;
-    }
-
     .back-to-top {
         width: 40px;
         height: 40px;
@@ -936,4 +913,85 @@ body {
     .back-to-top svg {
         height: 1rem;
     }
+}
+
+
+/* بهبود بخش Contact */
+#contact {
+  padding: 60px 0;
+  background-color: rgba(108, 92, 231, 0.05);
+}
+
+#contact .contact-content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+#contact p {
+  font-size: 1.2rem;
+  margin-bottom: 25px;
+  color: var(--text-color);
+}
+
+.contact-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--gradient);
+  color: white;
+  padding: 14px 32px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 20px rgba(108, 92, 231, 0.3);
+}
+
+.contact-link:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(108, 92, 231, 0.4);
+}
+
+.dark-mode #contact {
+  background-color: rgba(108, 92, 231, 0.03);
+}
+
+/* استایل‌های موبایل */
+@media (max-width: 768px) {
+  #contact {
+    padding: 50px 0;
+  }
+
+  #contact p {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+  
+  .contact-link {
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  #contact {
+    padding: 40px 0;
+  }
+  
+  #contact p {
+    font-size: 1rem;
+  }
+  
+  .contact-link {
+    width: 100%;
+    justify-content: center;
+    padding: 12px 20px;
+  }
+  
+  .contact-link svg {
+    width: 1.2em;
+    height: 1.2em;
+  }
 }
