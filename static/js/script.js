@@ -125,7 +125,7 @@ function renderGames(games) {
         
         gameCard.innerHTML = `
             <div class="game-image-container">
-                <img src="${game.image_url ? 'static/image/' + game.image_url : 'static/icons/placeholder.jpg'}" 
+                <img src="${game.image_url ? 'static/image/' + game.image_url : 'static/icons/placeholder.webp'}" 
                      alt="${game.name} by FOOTPRINT Game Studio" 
                      class="game-image" 
                      loading="lazy" 
