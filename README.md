@@ -15,7 +15,7 @@
 - 🖼️ **Art Style:** Surreal Memoryscapes  
 - 🚀 [View In Store](https://footprint.itch.io/die)
 
-![Die Screenshot](https://footprint-gamestudio.github.io/static/image/die.png)
+![Die Screenshot](https://footprint-gamestudio.github.io/static/image/die.jpg)
 
 ---
 
