@@ -1,6 +1,6 @@
 # 🎮 FOOTPRINT - Premium Game Studio  
 
-![Footprint Game Studio Logo](https://footprint-gamestudio.github.io/static/icons/logo.png)  
+![Footprint Game Studio Logo](https://footprint-gamestudio.github.io/static/icons/logo.webp)  
 
 ✨ **Creating surreal and memorable gaming experiences** ✨  
 
