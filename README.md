@@ -1,6 +1,6 @@
 # Footprint Game Studio
 
-![Footprint Game Studio Logo](https://footprint-gamestudio.github.io)
+![Footprint Game Studio Logo](https://footprint-gamestudio.github.io/static/icons/logo.png)
 
 Premium indie game studio creating surreal and memorable gaming experiences.
 
