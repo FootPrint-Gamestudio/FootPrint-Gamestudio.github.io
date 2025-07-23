@@ -33,7 +33,9 @@
 **Have questions or want to collaborate? Reach out to us!**  
 
 📮 **Email:** [footprint.gamestudio.2@gmail.com](mailto:footprint.gamestudio.2@gmail.com)
+
 🎥 **YouTube:** [Footprint GameStudio](https://youtube.com/@footprint_gamestudio)
+
 🌐 **Website:** [https://footprint-gamestudio.github.io](https://footprint-gamestudio.github.io)  
 
 ---
