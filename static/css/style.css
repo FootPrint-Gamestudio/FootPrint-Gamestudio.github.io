@@ -412,8 +412,7 @@ body {
 
 .about-text p {
     margin-bottom: 20px;
-    text-align: justify;
-    text-align-last: center;
+    text-align: center;
 }
 
 .about-stats {
