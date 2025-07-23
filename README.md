@@ -26,7 +26,17 @@
 | **LIMINA** | Dark Fantasy | "Where every choice mutates the world" |  
 | *[REDACTED]* | Classified | 🔒 |  
 
----  
+---    
+
+## 🛠️ **Our Tech Sorcery**  
+
+```mermaid
+graph LR
+    A[Game Design] -->|Unity| B[Die]
+    A -->|Unreal Engine 5| C[ECHO]
+    D[Website] -->|Three.js| E[Interactive Portfolio]
+
+---
 
 ## 🛠️ **Our Tech Sorcery**  
 - **Engines:** Unity, Unreal Engine 5  
