@@ -30,7 +30,6 @@
 
 ## 🛠️ **Our Tech Sorcery**  
 
-```mermaid
 graph LR
     A[Game Design] -->|Unity| B[Die]
     A -->|Unreal Engine 5| C[ECHO]
