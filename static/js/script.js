@@ -136,7 +136,7 @@ function renderGames(games) {
 
     const imageUrl = game.image_url 
       ? `static/image/${game.image_url}`
-      : "";
+      : "placeholder.webp";
 
     gameCard.innerHTML = `
       <div class="game-image-container">
