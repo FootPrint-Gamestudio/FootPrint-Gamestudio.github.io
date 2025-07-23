@@ -13,9 +13,9 @@
 - 🧩 **Genre:** Narrative Puzzle Adventure  
 - 💡 **Experience:** Unravel life's mysteries piece by piece  
 - 🖼️ **Art Style:** Surreal Memoryscapes  
-- 🚀 [View In Store](#) *(لینک استور واقعی)*  
+- 🚀 [View In Store](https://footprint.itch.io/die)
 
-![Die Screenshot](#) *(اضافه کردن عکس بازی)*  
+![Die Screenshot](https://footprint-gamestudio.github.io/static/image/die.png)
 
 ---
 
@@ -26,17 +26,15 @@
 | **Project 1** | In Development | Coming Soon |  
 | **Project 2** | In Development | Coming Soon |  
 
-*(پیشنهاد: برای هر پروژه آیکون/پیشنمایش کوچک اضافه کنید)*  
-
 ---
 
 ## ✨ CONTACT US  
 
 **Have questions or want to collaborate? Reach out to us!**  
 
-📮 **Email:** [contact@footprintstudio.com](mailto:contact@footprintstudio.com)  
-💬 **Social Media:** [@FootprintStudio](#)  
-🌐 **Website:** [footprintstudio.com](#)  
+📮 **Email:** [footprint.gamestudio.2@gmail.com](mailto:footprint.gamestudio.2@gmail.com)  
+🎥 **YouTube:** [Footprint GameStudio](https://youtube.com/@footprint_gamestudio))
+🌐 **Website:** [https://footprint-gamestudio.github.io](https://footprint-gamestudio.github.io)  
 
 ---
 
