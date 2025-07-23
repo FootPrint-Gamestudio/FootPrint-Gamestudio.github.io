@@ -1,53 +1,48 @@
-# 🎮 Footprint Game Studio – Where Dreams Become Playable Realities  
+# 🎮 FOOTPRINT - Premium Game Studio  
 
 ![Footprint Game Studio Logo](https://footprint-gamestudio.github.io/static/icons/logo.png)  
 
-✨ **Crafting mind-bending games that linger in your soul** ✨  
+✨ **Creating surreal and memorable gaming experiences** ✨  
 
----  
+---
 
-## 🔥 Featured Masterpiece  
+## 🎲 OUR GAMES  
 
-### 🎲 **DIE**  
-*A psychedelic puzzle odyssey through fragmented memories*  
-- 🧩 **Genre:** Surreal Narrative Puzzle  
-- 💡 **Hook:** "What if you could solve someone's life like a puzzle?"  
-- 🎵 **Original soundtrack** by [Artist Name]  
-- 🏆 **Awards:** Coming soon!  
-- 🚀 [Wishlist on Steam!](#)  
+### DIE  
+*A surreal puzzle journey through a person's life, one memory at a time*  
+- 🧩 **Genre:** Narrative Puzzle Adventure  
+- 💡 **Experience:** Unravel life's mysteries piece by piece  
+- 🖼️ **Art Style:** Surreal Memoryscapes  
+- 🚀 [View In Store](#) *(لینک استور واقعی)*  
 
----  
+![Die Screenshot](#) *(اضافه کردن عکس بازی)*  
 
-## ⚡ Coming Soon – Projects That'll Blow Your Mind  
+---
 
-| Game Codename | Vibe | Teaser |  
-|--------------|------|--------|  
-| **ECHO** | Cyberpunk Detective | "Hack memories to solve crimes" |  
-| **LIMINA** | Dark Fantasy | "Where every choice mutates the world" |  
-| *[REDACTED]* | Classified | 🔒 |  
+## 🔜 COMING SOON  
 
----    
+| Project | Status | Description |  
+|---------|--------|-------------|  
+| **Project 1** | In Development | Coming Soon |  
+| **Project 2** | In Development | Coming Soon |  
 
-## 🛠️ **Our Tech Sorcery**  
-- **Engines:** Unity, Unreal Engine 5  
-- **Website:** Three.js, GSAP  
-- **Sound:** FMOD, Wwise  
+*(پیشنهاد: برای هر پروژه آیکون/پیشنمایش کوچک اضافه کنید)*  
 
----  
+---
 
-## ✉️ **Let's Create Magic Together**  
-📮 **Email:** [hello@footprint.games](mailto:hello@footprint.games)  
-💬 **Discord:** [Join Us](#)  
-🐦 **Twitter:** [@FootprintMadness](#)  
+## ✨ CONTACT US  
 
----  
+**Have questions or want to collaborate? Reach out to us!**  
 
-## 🌌 **Why Choose Us?**  
-- 🧠 **Brain-melting concepts**  
-- 🎨 **Handcrafted aesthetics**  
-- 💔 **Emotional damage** (in a good way!)  
+📮 **Email:** [contact@footprintstudio.com](mailto:contact@footprintstudio.com)  
+💬 **Social Media:** [@FootprintStudio](#)  
+🌐 **Website:** [footprintstudio.com](#)  
 
----  
+---
 
-©️ **2025 Footprint Game Studio**  
-*"We don't make games. We engineer existential crises."*  
+## 🛠️ TECHNOLOGY STACK  
+```mermaid
+graph TD
+    A[Game Development] --> B[Unity]
+    A --> C[Unreal Engine]
+    D[Website] --> E[Three.js]
