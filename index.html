@@ -25,9 +25,6 @@
 
     <!-- Preload Resources -->
     <link rel="preload" href="static/icons/logo.webp" as="image" fetchpriority="high">
-    <link rel="preload" href="game.json" as="fetch">
-    <link rel="preload" href="static/css/style.css" as="style">
-    <link rel="preload" href="static/js/script.js" as="script">
 
     <!-- Favicon & App Icons -->
     <link rel="stylesheet" href="static/css/style.css">
@@ -71,7 +68,7 @@
         "@type": "ContactPoint",
         "email": "footprint.gamestudio.2@gmail.com",
         "contactType": "customer support",
-        "availableLanguage": ["English"]
+        "availableLanguage": ["English", "Persian"]
     }],
     "knowsAbout": [
         "Game Development",
@@ -102,10 +99,10 @@
                 </div>
             </div>
             <h1 class="title" itemprop="name">FOOTPRINT</h1>
-            <p class="subtitle" itemprop="description">Premium Game Studio</p>
+            <p class="subtitle" itemprop="description" data-key="subtitle">Premium Game Studio</p>
             
             <div class="scroll-down">
-                <span>Scroll</span>
+                <span data-key="scroll">Scroll</span>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg>
             </div>
         </div>
@@ -114,11 +111,11 @@
     <!-- Games Section with Product Schema -->
     <section class="section" id="games">
         <div class="container">
-            <h2 class="section-title">OUR GAMES</h2>
+            <h2 class="section-title" data-key="sectionTitle">OUR GAMES</h2>
             
             <div class="games-grid" id="gamesGrid" itemscope itemtype="https://schema.org/ItemList">
                 <!-- Games will be loaded dynamically from game.json -->
-                <p class="loading-text">Loading our awesome games...</p>
+                <p class="loading-text" data-key="loadingText">Loading our awesome games...</p>
             </div>
         </div>
     </section>
@@ -126,23 +123,23 @@
     <!-- New About Us Section -->
     <section class="section about-section" id="about">
         <div class="container">
-            <h2 class="section-title">ABOUT US</h2>
+            <h2 class="section-title" data-key="about">ABOUT US</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>FOOTPRINT Game Studio is an game development studio specializing in creating immersive gaming experiences for PC and mobile platforms. Founded in 2025, our team of passionate developers delivers high-quality innovative game mechanics.</p>
+                    <p data-key="aboutText">FOOTPRINT Game Studio is an game development studio specializing in creating immersive gaming experiences for PC and mobile platforms. Founded in 2025, our team of passionate developers delivers high-quality innovative game mechanics.</p>
                 </div>
                 <div class="about-stats">
                     <div class="stat-item">
                         <div class="stat-number">1+</div>
-                        <div class="stat-label">Years</div>
+                        <div class="stat-label" data-key="year">Years</div>
                     </div>
                     <div class="stat-item">
                         <div class="stat-number">3+</div>
-                        <div class="stat-label">Games</div>
+                        <div class="stat-label" data-key="game">Games</div>
                     </div>
                     <div class="stat-item">
-                        <div class="stat-number">100+</div>
-                        <div class="stat-label">Players</div>
+                        <div class="stat-number">200+</div>
+                        <div class="stat-label" data-key="player">Players</div>
                     </div>
                 </div>
             </div>
@@ -152,11 +149,11 @@
     <!-- Contact Section -->
     <section class="section contact-section" id="contact">
         <div class="container">
-            <h2 class="section-title">CONTACT US</h2>
+            <h2 class="section-title" data-key="contact">CONTACT US</h2>
             <div class="contact-content">
-                <p>Have questions or want to collaborate? Reach out to us!</p>
+                <p data-key="emailUs">Have questions or want to collaborate? Reach out to us!</p>
                 <a href="mailto:footprint.gamestudio.2@gmail.com" class="contact-link" itemprop="email">
-                    <svg class="svg-icon" style="width: 1.5em; height: 1.5em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M925.696 127.488H98.304C44.032 127.488 0 171.52 0 225.28v573.44c0 54.272 44.032 98.304 98.304 98.304h827.904c54.272 0 98.304-44.032 98.304-98.304V225.28c-0.512-53.76-44.544-97.792-98.816-97.792zM68.608 225.28c0-16.384 13.312-29.184 29.184-29.184h827.904c16.384 0 29.184 13.312 29.184 29.184v573.44c0 16.384-13.312 29.184-29.184 29.184H98.304c-16.384 0-29.184-13.312-29.184-29.184V225.28z"/><path d="M175.104 434.688l318.464 212.48c5.632 3.584 12.288 5.632 18.944 5.632 6.656 0 13.312-2.048 18.944-5.632L849.92 434.688c14.848-10.752 18.944-30.72 9.216-46.08-10.24-15.872-31.232-20.992-47.616-10.752l-299.52 199.68-299.52-199.68c-0.512-0.512-1.024-0.512-1.536-1.024-15.872-10.24-37.376-5.12-47.616 10.752-8.704 15.872-4.096 37.376 11.776 47.104z"/></svg> Email Us
+                    <svg class="svg-icon" style="width: 1.5em; height: 1.5em;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M925.696 127.488H98.304C44.032 127.488 0 171.52 0 225.28v573.44c0 54.272 44.032 98.304 98.304 98.304h827.904c54.272 0 98.304-44.032 98.304-98.304V225.28c-0.512-53.76-44.544-97.792-98.816-97.792zM68.608 225.28c0-16.384 13.312-29.184 29.184-29.184h827.904c16.384 0 29.184 13.312 29.184 29.184v573.44c0 16.384-13.312 29.184-29.184 29.184H98.304c-16.384 0-29.184-13.312-29.184-29.184V225.28z"/><path d="M175.104 434.688l318.464 212.48c5.632 3.584 12.288 5.632 18.944 5.632 6.656 0 13.312-2.048 18.944-5.632L849.92 434.688c14.848-10.752 18.944-30.72 9.216-46.08-10.24-15.872-31.232-20.992-47.616-10.752l-299.52 199.68-299.52-199.68c-0.512-0.512-1.024-0.512-1.536-1.024-15.872-10.24-37.376-5.12-47.616 10.752-8.704 15.872-4.096 37.376 11.776 47.104z"/></svg> <span data-key="email">Email Us</span>
                 </a>
             </div>
         </div>
@@ -168,10 +165,10 @@
             <div class="footer-logo" itemprop="name">FOOTPRINT</div>
             
             <div class="footer-links" itemscope itemtype="https://schema.org/SiteNavigationElement">
-                <a href="#hero" class="footer-link" itemprop="url"><span itemprop="name">Main Page</span></a>
-                <a href="#games" class="footer-link" itemprop="url"><span itemprop="name">Games</span></a>
-                <a href="#about" class="footer-link" itemprop="url"><span itemprop="name">About Us</span></a>
-                <a href="#contact" class="footer-link" itemprop="url"><span itemprop="name">Contact</span></a>
+                <a href="#hero" class="footer-link" itemprop="url"><span itemprop="name" data-key="mainPage">Main Page</span></a>
+                <a href="#games" class="footer-link" itemprop="url"><span itemprop="name" data-key="game">Games</span></a>
+                <a href="#about" class="footer-link" itemprop="url"><span itemprop="name" data-key="about">About Us</span></a>
+                <a href="#contact" class="footer-link" itemprop="url"><span itemprop="name" data-key="contactLast">Contact</span></a>
             </div>
             
             <div class="social-links">
@@ -197,34 +194,34 @@
                 </a>
             </div>
             
-            <p class="copyright">© <span itemprop="copyrightYear">2025</span> <span itemprop="copyrightHolder">Footprint Game Studio</span>. All Rights Reserved.</p>
+            <p class="copyright">© <span itemprop="copyrightYear" data-key="startYear">2025</span> <span itemprop="copyrightHolder" data-key="gamestudio">Footprint Game Studio</span>. <span data-key="other">All Rights Reserved</span>.</p>
         </div>
     </footer>
     
     <!-- Fixed Buttons -->
     <div class="fixed-buttons">
         <!-- Back to top button -->
-        <button class="back-to-top" id="backToTop" aria-label="Back to top">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"/></svg>
+        <button class="lang-switcher" id="langSwitcher" aria-label="Lang Switcher">
+            <span>En / فارسی</span>
         </button>
         
         <!-- Theme toggle button -->
         <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"/></svg>
-            <span class="theme-tooltip">Change The Theme</span>
+            <span class="theme-tooltip" data-key="changeTheme">Change The Theme</span>
         </button>
         
         <!-- Support button -->
         <a href="mailto:footprint.gamestudio.2@gmail.com" class="support-btn" aria-label="Contact support">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 48C141.1 48 48 141.1 48 256v40c0 13.3-10.7 24-24 24s-24-10.7-24-24V256C0 114.6 114.6 0 256 0S512 114.6 512 256V400.1c0 48.6-39.4 88-88.1 88L313.6 488c-8.3 14.3-23.8 24-41.6 24H240c-26.5 0-48-21.5-48-48s21.5-48 48-48h32c17.8 0 33.3 9.7 41.6 24l110.4 .1c22.1 0 40-17.9 40-40V256c0-114.9-93.1-208-208-208zM144 208h16c17.7 0 32 14.3 32 32V352c0 17.7-14.3 32-32 32H144c-35.3 0-64-28.7-64-64V272c0-35.3 28.7-64 64-64zm224 0c35.3 0 64 28.7 64 64v48c0 35.3-28.7 64-64 64H352c-17.7 0-32-14.3-32-32V240c0-17.7 14.3-32 32-32h16z"/></svg>
-            <span class="support-tooltip">Online Support</span>
+            <span class="support-tooltip" data-key="support">Online Support</span>
         </a>
     </div>
     
     <!-- Notification -->
     <div class="notification" id="notification" role="status" aria-live="polite">
         <i class="fas fa-check-circle"></i>
-        <span id="notificationText">Theme Change Applied</span>
+        <span id="notificationText" data-key="themeApplied">Theme Change Applied</span>
     </div>
     
     <script src="static/js/script.js"></script>
