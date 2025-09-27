@@ -1,26 +1,38 @@
 [
     {
-        "name": "Die",
-        "description": "surreal puzzle journey through a person's life, one memory at a time.",
-        "image_url": "die.jpg",
-        "store_link": "https://footprint.itch.io/die",
-        "is_active": true,
-        "is_new": true
+        "en": {
+            "name": "Die",
+            "description": "surreal puzzle journey through a person's life, one memory at a time.",
+            "image_url": "die.jpg",
+            "store_link": "https://footprint.itch.io/die",
+            "is_active": true,
+            "is_new": true
+        },
+        "fa": {
+            "name": "Die",
+            "description": "surreal puzzle journey through a person's life, one memory at a time.",
+            "image_url": "die.jpg",
+            "store_link": "https://footprint.itch.io/die",
+            "is_active": true,
+            "is_new": true
+        }
     },
-    {
-        "name": "Soon",
-        "description": "Coming Soon",
-        "image_url": "",
-        "store_link": "",
-        "is_active": false,
-        "is_new": false
-    },
-    {
-        "name": "Soon",
-        "description": "Coming Soon",
-        "image_url": "",
-        "store_link": "",
-        "is_active": false,
-        "is_new": false
+        {
+        "en": {
+            "name": "coming soon...",
+            "description": "your barg will be down ...",
+            "image_url": "",
+            "store_link": "https://footprint.itch.io/die",
+            "is_active": true,
+            "is_new": true
+        },
+        "fa": {
+            "name": "بزودی ...",
+            "description": "برگاتون خواهد ریخت...",
+            "image_url": "",
+            "store_link": "https://footprint.itch.io/die",
+            "is_active": true,
+            "is_new": true
+        }
     }
 ]
