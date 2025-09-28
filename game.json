@@ -6,7 +6,7 @@
             "image_url": "die.jpg",
             "store_link": "https://footprint.itch.io/die",
             "is_active": true,
-            "is_new": true
+            "is_new": false
         },
         "fa": {
             "name": "مرگ",
