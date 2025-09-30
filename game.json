@@ -1,4 +1,4 @@
-[
+use[
     {
         "en": {
             "name": "Die",
@@ -39,7 +39,7 @@
         "en": {
             "name": "Henia",
             "description": "Does your mind have the capacity to recognize the reflection of colors?.",
-            "image_url": "Picsart_25-08-31_14-18-07-834.png",
+            "image_url": "Picsart_25-09-26_18-11-25-226.png",
             "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.ZigZak.Iran&ref=share",
             "is_active": true,
             "is_new": true
@@ -47,7 +47,7 @@
         "fa": {
             "name": "هنیآ (بازتاب رنگ)",
             "description": "ذهنت تحمل اینو داره که بازتاب رنگ ها رو تشخیص بده؟",
-            "image_url": "Picsart_25-08-31_14-18-07-834.png",
+            "image_url": "Picsart_25-09-26_18-11-25-226.png",
             "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.Henia.Iran&ref=share",
             "is_active": true,
             "is_new": true
