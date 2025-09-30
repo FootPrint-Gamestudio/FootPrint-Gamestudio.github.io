@@ -34,9 +34,9 @@
             "is_active": true,
             "is_new": true
         }
-    }
-
     },
+
+    }
         {
         "en": {
             "name": "Henia",
@@ -54,5 +54,5 @@
             "is_active": true,
             "is_new": true
         }
-        }
+        },
 ]
