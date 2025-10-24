@@ -22,7 +22,7 @@
             "name": "ZigZak",
             "description": "Be careful not to fall.",
             "image_url": "Picsart_25-08-31_14-18-07-834.png",
-            "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.ZigZak.Iran&ref=share",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.ZigZak.Iran",
             "is_active": true,
             "is_new": true
         },
@@ -30,7 +30,7 @@
             "name": "زیگ زاک",
             "description": "حواست باشه نیُفتی.",
             "image_url": "Picsart_25-08-31_14-18-07-834.png",
-            "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.Henia.Iran&ref=share",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.ZigZak.Iran",
             "is_active": true,
             "is_new": true
         }
@@ -40,7 +40,7 @@
             "name": "Henia",
             "description": "Does your mind have the capacity to recognize the reflection of colors?.",
             "image_url": "Picsart_25-09-26_18-11-25-226.png",
-            "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.ZigZak.Iran&ref=share",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.Henia.Iran",
             "is_active": true,
             "is_new": true
         },
@@ -48,7 +48,7 @@
             "name": "هنیآ (بازتاب رنگ)",
             "description": "ذهنت تحمل اینو داره که بازتاب رنگ ها رو تشخیص بده؟",
             "image_url": "Picsart_25-09-26_18-11-25-226.png",
-            "store_link": "http://cafebazaar.ir/app/?id=com.FootPrint.Henia.Iran&ref=share",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.Henia.Iran",
             "is_active": true,
             "is_new": true
         }
