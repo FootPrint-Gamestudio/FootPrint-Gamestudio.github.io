@@ -24,7 +24,7 @@
             "image_url": "Picsart_25-08-31_14-18-07-834.png",
             "store_link": "https://cafebazaar.ir/app/com.FootPrint.ZigZak.Iran",
             "is_active": true,
-            "is_new": true
+            "is_new": false
         },
         "fa": {
             "name": "زیگ زاک",
@@ -32,7 +32,7 @@
             "image_url": "Picsart_25-08-31_14-18-07-834.png",
             "store_link": "https://cafebazaar.ir/app/com.FootPrint.ZigZak.Iran",
             "is_active": true,
-            "is_new": true
+            "is_new": false
         }
     },
         {
@@ -42,13 +42,31 @@
             "image_url": "Picsart_25-09-26_18-11-25-226.png",
             "store_link": "https://cafebazaar.ir/app/com.FootPrint.Henia.Iran",
             "is_active": true,
-            "is_new": true
+            "is_new": false
         },
         "fa": {
             "name": "هنیآ (بازتاب رنگ)",
             "description": "ذهنت تحمل اینو داره که بازتاب رنگ ها رو تشخیص بده؟",
             "image_url": "Picsart_25-09-26_18-11-25-226.png",
             "store_link": "https://cafebazaar.ir/app/com.FootPrint.Henia.Iran",
+            "is_active": true,
+            "is_new": false
+        }
+    },
+        {
+        "en": {
+            "name": "Seed Of Light",
+            "description": "With each sprinkle, the grain becomes brighter.",
+            "image_url": "Picsart_25-09-26_18-11-25-226.png",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.SeedOfLight.Iran",
+            "is_active": true,
+            "is_new": true
+        },
+        "fa": {
+            "name": "دانهٔ نور",
+            "description": "با هر پَرِش دانه روشن تر می شود.",
+            "image_url": "Picsart_25-09-26_18-11-25-226.png",
+            "store_link": "https://cafebazaar.ir/app/com.FootPrint.SeedOfLight.Iran",
             "is_active": true,
             "is_new": true
         }
